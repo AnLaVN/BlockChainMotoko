@@ -66,8 +66,20 @@ actor {
 	};
 
 	//Challenge 8
-	// public func duplicated_character(t : Text) : async (Text){
-	// };
+	public func duplicated_character(t : Text) : async (Text){
+		var size = t.size();
+		var i = 0;
+		var j = 0;
+		for(c1 in t.chars()){
+			for(c2 in t.chars()){
+				if(j > i){ if (c1 == c2) return Char.toText(c1); };
+				j += 1;
+			};
+			i += 1;
+			j := 0;
+		};
+		return t;
+	};
 
 	//Challenge 9
 	public func size_in_bytes(t : Text) : async(Nat){
