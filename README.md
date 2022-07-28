@@ -3,7 +3,7 @@
 --> Vòng sơ loại: 17/07/2022 tại toà P, Fpoly Hồ Chí Minh
 
 # ***TEAM Member***
-- **L** -- Nguyễn Hồng Long *[Leader]*
-- **A** -- La Đặng Bình An  *[Member]*
-- **D** -- Trương Thành Đạt *[Member]*
-- **S** -- Trần Tiến Sỹ     *[Member]*
+- **L** -- Nguyễn Hồng ***L***ong *[Leader]*
+- **A** -- La Đặng Bình ***A***n  *[Member]*
+- **D** -- Trương Thành ***Đ***ạt *[Member]*
+- **S** -- Trần Tiến ***S***ỹ     *[Member]*
