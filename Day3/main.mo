@@ -88,7 +88,8 @@ actor {
 	public func showDem() : async(Nat)	{	return dem;	};
 	public func showVersionNumber() : async(Nat){	return versionNumber;};
 
-	//Challenge 19
+	//Challenge 19	in Challenge19.mo
 	
 	//Challenge 20
+	
 };
