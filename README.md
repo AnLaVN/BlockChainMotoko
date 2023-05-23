@@ -10,5 +10,5 @@
 # ***TEAM Member***
 - ***L*** -- [Nguyễn Hồng **L**ong](https://github.com/nhlong250702) *[Leader]*
 - ***A*** -- [La Đặng Bình **A**n](https://github.com/AnLaVN)  *[Member]*
-- ***D*** -- Trương Thành **Đ**ạt *[Member]*
-- ***S*** -- Trần Tiến **S**ỹ     *[Member]*
+- ***D*** -- [Trương Thành **Đ**ạt](https://github.com/TTDAT25) *[Member]*
+- ***S*** -- [Trần Tiến **S**ỹ](https://github.com/TranTienSy)     *[Member]*
